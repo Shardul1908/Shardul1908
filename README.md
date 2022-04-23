@@ -4,9 +4,9 @@ Hi 👋 My name is Shardul Dharmadhikari
 
 Highly Motivated and eager to learn new things in tech. Student in Pune Vidyarthi gruhas college of engineering and technology.
 
-* 🌍  I'm based in Pune
+* 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [sharduld80@gmail.com](mailto:sharduld80@gmail.com)
-* 🧠  I'm learning Competitive Coding and Data Structures.
+* 🧠  I'm learning Computer Engineering
 * 🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills
